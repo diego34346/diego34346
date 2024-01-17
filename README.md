@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Diego Rosas</h1>
+<h1 align="center">Hi, I'm Diego Rosas</h1>
 <h3 align="center">A passionate full stack web developer from Colombia, with an ambition for greatness, dedicated and committed to fulfilling my goals and I hope with my skills to climb step by step until I achieve it.</h3>
 
-- 🌱 I’m currently learning **Web development using technologies such as Javascript, HTML, CSS, node.js, PostgreSQL, Next,js, Tailwind, among others.**
+-  I’m currently learning **Web development using technologies such as Javascript, HTML, CSS, node.js, PostgreSQL, Next,js, Tailwind, among others.**
 
-- 📫 How to reach me **diego_f423@hotmail.com**
+-  How to reach me **diego_f423@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
